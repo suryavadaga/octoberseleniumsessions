@@ -15,10 +15,6 @@ public class AccessModifiers {
 		String firstName = jsonObj.get("firstName").asText();
 		System.out.println(firstName);
 	}
-	//Access Modifiers
-	//public
-	//private
-	//protected
 	
 	public static void testMethod() {
 		System.out.println("Test Method");

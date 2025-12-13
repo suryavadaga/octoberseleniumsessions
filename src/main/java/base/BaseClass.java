@@ -12,9 +12,7 @@ public class BaseClass {
 	@BeforeMethod
 	public void beforeMethod() {
 		driver = new ChromeDriver(); // one test case instance 9349132741238479kasfnkashiouwof
-		driver.manage().window().maximize();
-		//adfa
-		//adfafa	
+		driver.manage().window().maximize();	
 	}
 	
 	@AfterMethod

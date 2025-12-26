@@ -4,10 +4,6 @@ public class ClassA {
 
 	public static void methodA() {
 		System.out.println("Method A");
-		System.out.println("Method A");
-		System.out.println("Method A");
-		System.out.println("Method A");
-		System.out.println("Method A");
 	}
 	
 	public void commonMethod() {

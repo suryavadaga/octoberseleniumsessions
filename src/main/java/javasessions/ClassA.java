@@ -6,6 +6,8 @@ public class ClassA {
 		System.out.println("Method A");
 		System.out.println("Method A");
 		System.out.println("Method A");
+		System.out.println("Method A");
+		System.out.println("Method A");
 	}
 	
 	public void commonMethod() {
